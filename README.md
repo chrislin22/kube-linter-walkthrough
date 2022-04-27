@@ -15,3 +15,4 @@ When a lint check fails, [KubeLinter](https://github.com/stackrox/kube-linter) r
 
 Visit https://docs.kubelinter.io for detailed documentation on installing, using and configuring KubeLinter.
 
+
